@@ -1,6 +1,8 @@
 # Strogonoff de Frango :chicken:
 
-### Ingredientes
+
+
+### Ingredientes :man_cook:
 
 - 4 colheres (sopa) de manteiga
 - 500 g de frango em tiras
@@ -14,7 +16,7 @@
 - 2 colheres (sopa) de ketchup
 - 1 lata de NESTLÉ® Creme de Leite
 
-### Modo de preparo
+### Modo de preparo :man_cook:
 
 1. Em uma frigideira grande, derreta 3 colheres (sopa) de manteiga e doure o frango, aos poucos, em fogo alto.
 
